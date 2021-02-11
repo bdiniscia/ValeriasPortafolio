@@ -11,7 +11,8 @@
 	9. Blog Page
 	10. Blog Single
 	11. Contact Page
-	12. Responsive
+	12. Footer
+    13. Responsive
 */
 
 /*
@@ -1004,6 +1005,10 @@ input:focus, textarea:focus {
 #index-page #main .load-more {
     margin-top: 30px;
     text-align: center;
+}
+
+.logo img {
+    height: 22em;
 }
 
 /*
@@ -2193,7 +2198,25 @@ input:focus, textarea:focus {
 }
 
 /*
-	12. Responsive
+	12. Footer
+*/
+
+.footer {
+    background-image: url(/img/footer.png);
+    padding: 7em;
+    display: flex;
+    justify-content: center;
+    background-position: center;
+}
+
+.social-media img {
+    height: 4em;
+    padding: 0 0.7em;
+}
+
+
+/*
+	13. Responsive
 */
 
 @media (max-width: 992px) {
