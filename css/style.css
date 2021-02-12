@@ -2202,7 +2202,7 @@ input:focus, textarea:focus {
 */
 
 .footer {
-    background-image: url(/img/footer.png);
+    background-image: url(../img/footer.png);
     padding: 7em;
     display: flex;
     justify-content: center;
