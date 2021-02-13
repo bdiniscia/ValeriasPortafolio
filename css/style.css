@@ -2207,6 +2207,8 @@ input:focus, textarea:focus {
     display: flex;
     justify-content: center;
     background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .social-media img {
