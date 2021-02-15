@@ -1453,7 +1453,7 @@ input:focus, textarea:focus {
 }
 
 #about-page #main .approach img {
-    width: 100%;
+    height: 35em;
 }
 
 #about-page #main .approach .text {
